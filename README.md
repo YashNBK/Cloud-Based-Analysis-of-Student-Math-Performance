@@ -1,2 +1,1 @@
-# Cloud-Based-Analysis-of-Student-Math-Performance
 The aim of this project is to develop a cloud-based data analytics application to assess and improve mathematical performance in higher education. By building an efficient data pipeline, the project will extract, clean, and analyze data to uncover learning patterns and generate actionable insights. These insights will help educators enhance teaching strategies and curriculum design, ultimately improving student outcomes in various mathematical courses for specifically Portugal students.
